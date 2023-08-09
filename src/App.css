@@ -1,0 +1,12 @@
+.bg-color{
+    background-color: white;
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    background-color: black;
+}
+.bg-body-tertiary{
+    background-color: black;
+}
+.container-fluid{
+    background-color: rgb(78, 78, 216);
+}
