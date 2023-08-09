@@ -25,6 +25,18 @@ function Show() {
               <a className="nav-link" href="#">
                 Pricing
               </a>
+              <a className="nav-link" href="#">
+                Delayed Trains
+              </a>
+              <a className="nav-link" href="#">
+                Seat Availability
+              </a>
+              <a className="nav-link" href="#">
+                Train coach class
+              </a>
+              <a className="nav-link" href="#">
+                Cheap Trains
+              </a>
             </div>
           </div>
         </div>
